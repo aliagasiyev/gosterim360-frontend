@@ -34,7 +34,7 @@ export function MovieSelection({ onMovieSelect }: MovieSelectionProps) {
       id: 1,
       title: "Oppenheimer",
       poster: "/placeholder.svg?height=600&width=400",
-      posterUrl: "https://m.media-amazon.com/images/I/81+1A6lKQ-L._AC_SY679_.jpg",
+      posterUrl: "https://m.media-amazon.com/images/I/71lqDylcvGL._AC_SY679_.jpg",
       genre: "Biography • Drama",
       rating: "R",
       sessions: [
@@ -70,7 +70,7 @@ export function MovieSelection({ onMovieSelect }: MovieSelectionProps) {
       id: 4,
       title: "Inception",
       poster: "/placeholder.svg?height=600&width=400",
-      posterUrl: "", // Test case: empty posterUrl
+      posterUrl: "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
       genre: "Action • Thriller",
       rating: "PG-13",
       sessions: [
@@ -82,7 +82,7 @@ export function MovieSelection({ onMovieSelect }: MovieSelectionProps) {
       id: 5,
       title: "The Batman",
       poster: "/placeholder.svg?height=600&width=400",
-      posterUrl: "https://broken-url-example.com/nonexistent.jpg", // Test case: broken URL
+      posterUrl: "https://m.media-amazon.com/images/I/91KkWf50SoL._AC_SY679_.jpg",
       genre: "Action • Crime",
       rating: "PG-13",
       sessions: [
